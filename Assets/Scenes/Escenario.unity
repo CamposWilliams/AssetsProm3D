@@ -1084,10 +1084,34 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7812718794621064025, guid: b4e079b2cd5bbb145bcbce2d0d876be6, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 5a5301c7ad57ed94b82958b4a5f569a3, type: 2}
+    - target: {fileID: -6726615986570039458, guid: b4e079b2cd5bbb145bcbce2d0d876be6, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 5a5301c7ad57ed94b82958b4a5f569a3, type: 2}
+    - target: {fileID: 783699963180500944, guid: b4e079b2cd5bbb145bcbce2d0d876be6, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 5a5301c7ad57ed94b82958b4a5f569a3, type: 2}
     - target: {fileID: 919132149155446097, guid: b4e079b2cd5bbb145bcbce2d0d876be6, type: 3}
       propertyPath: m_Name
       value: ParedPuerta_low
       objectReference: {fileID: 0}
+    - target: {fileID: 1133168925949710677, guid: b4e079b2cd5bbb145bcbce2d0d876be6, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 5a5301c7ad57ed94b82958b4a5f569a3, type: 2}
+    - target: {fileID: 1803115517247179661, guid: b4e079b2cd5bbb145bcbce2d0d876be6, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 5a5301c7ad57ed94b82958b4a5f569a3, type: 2}
+    - target: {fileID: 7721015786554173705, guid: b4e079b2cd5bbb145bcbce2d0d876be6, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 5a5301c7ad57ed94b82958b4a5f569a3, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
